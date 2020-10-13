@@ -1,0 +1,20 @@
+{
+  "name": "util-tool-types",
+  "version": "0.0.1",
+  "description": "Useful TypeScript tool types collection. 🛵",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linbudu599/util-tool-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linbudu599/util-tool-types/issues"
+  },
+  "homepage": "https://github.com/linbudu599/util-tool-types#readme"
+}
